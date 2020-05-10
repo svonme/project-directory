@@ -1,0 +1,19 @@
+{
+  "name": "@fengqiaogang/project-directory",
+  "version": "0.1.1",
+  "description": "get project directory",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": ["get directory"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svonme/project-directory.git"
+  },
+  "author": "svon.me@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svonme/project-directory/issues"
+  },
+  "homepage": "https://github.com/svonme/project-directory#readme"
+}
